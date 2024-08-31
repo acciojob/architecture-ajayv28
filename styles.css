@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.entireBody{
+	width:1100px;
+}
+
+.imageContainer{
+	width:600px;	
+}
+
+.table-th,td,table{
+	border:1px double black;
+}
